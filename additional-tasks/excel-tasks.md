@@ -191,28 +191,18 @@ B) =IF(nəticə, şərt)
 C) =IF(doğrudursa, yanlışdırsa)  
 D) =IF(şərt; şərt2)
 
-79. Filtr tətbiq etmək üçün Excel-də hansı menyudan istifadə olunur?
+79. Silinmiş sual
 
-A) Home  
-B) Insert  
-C) Data  
-D) Review
-
-80. Bir sütunu iki ayrı sütuna bölmək üçün hansı alətdən istifadə olunur?
+80. İki sütunu birləşdirmək üçün hansı alətdən istifadə olunur?
 
 A) Merge Cells  
 B) Text to Columns  
 C) Remove Duplicates  
 D) Conditional Formatting
 
-81. XLOOKUP funksiyası VLOOKUP-dan fərqli olaraq əlavə nəyi edə bilir?
-
-A) Yalnız soldan sağa axtarış edə bilər  
-B) Həm soldan sağa, həm sağdan sola axtarış edə bilər  
-C) Yalnız ədədlər üzərində işləyir  
-D) Diaqram yarada bilər
-
-82. "=A1*B1-C1" düsturunda əməliyyatların ardıcıllığı necədir?
+81. Silinmiş sual
+82. 
+83. "=A1*B1-C1" düsturunda əməliyyatların ardıcıllığı necədir?
 
 A) Əvvəlcə çıxma, sonra vurma  
 B) Əvvəlcə vurma, sonra çıxma  
