@@ -1,4 +1,4 @@
-# TƏQDİMAT TAPŞIRIQLARI
+# TƏQDİMAT TAPŞIRIQLARI (100 bal)
 
 ## Ümumi Təlimatlar (bütün tapşırıqlar üçün)
 
