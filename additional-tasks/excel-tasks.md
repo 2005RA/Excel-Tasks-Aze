@@ -1,4 +1,4 @@
-# EXCEL TAPŞIRIQLARI
+# EXCEL TAPŞIRIQLARI (100 bal)
 
 **Formullar, Diaqramlar və Pivot Cədvəllər üzrə praktiki tapşırıqlar**
 
